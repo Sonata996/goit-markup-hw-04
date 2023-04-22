@@ -142,7 +142,19 @@ body {
   font-weight: 700;
   padding-top: 188px;
   padding-bottom: 188px;
-  background-image: url(group-people-working-website-template.jpg);
+  background-image: url(../images/main-page/group-people-working-website-template.jpg);
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/main-page/group-people-working-website-template.jpg);
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/main-page/group-people-working-website-template.jpg);
+  max-width: 1440px;
+  min-height: 600px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
