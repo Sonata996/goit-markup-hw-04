@@ -339,6 +339,7 @@ body {
   padding-bottom: 100px;
 }
 .footer-link {
+  margin: 0;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -356,6 +357,7 @@ body {
   color: #f4f4fd;
 }
 .footer-p {
+  margin: 0;
   color: #f4f4fd;
   max-width: 264px;
 }
