@@ -245,6 +245,18 @@ body {
   color: #434455;
   margin: 0;
 }
+/* section icon */
+.two-section-svg {
+  width: 264px;
+  max-height: 112px;
+}
+.div-scg {
+  padding: 0;
+  margin: 0;
+  background: #f4f4fd;
+  border-radius: 4px;
+  width: 264px;
+}
 /* three section */
 .three-section {
   padding-top: 0px;
