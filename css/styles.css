@@ -247,15 +247,20 @@ body {
 }
 /* section icon */
 .two-section-svg {
-  width: 264px;
-  max-height: 112px;
+  width: 64px;
+  height: 64px;
 }
 .div-scg {
+  display: flex;
+  justify-content: center;
   padding: 0;
   margin: 0;
   background: #f4f4fd;
   border-radius: 4px;
   width: 264px;
+  height: 112px;
+  margin-bottom: 8px;
+  align-items: center;
 }
 /* three section */
 .three-section {
