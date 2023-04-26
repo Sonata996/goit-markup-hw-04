@@ -423,6 +423,7 @@ body {
   justify-content: center;
   border: 1px solid #8e8f99;
   border-radius: 4px;
+  color: #8e8f99;
 }
 .five-list-link:hover {
   border-color: #404bbf;
@@ -443,6 +444,7 @@ body {
 .five-list-svg {
   width: 104px;
   height: 56px;
+  fill: currentColor;
 }
 
 /* footer */
