@@ -391,6 +391,51 @@ body {
 .link-icon:focus {
   background-color: #404bbf;
 }
+/* five section */
+.section-five {
+  padding-bottom: 120px;
+  padding-top: 120px;
+}
+
+.section-five-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+  margin: 0;
+  margin-bottom: 72px;
+}
+.five-section-list {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+.five-list-link {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+.five-list-item {
+  width: 168px;
+  height: 88px;
+  box-sizing: border-box;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+}
+.five-list-item {
+  width: calc((100% - 120px) / 6);
+}
+.five-list-svg {
+  width: 104px;
+  height: 56px;
+}
 
 /* footer */
 .footer {
