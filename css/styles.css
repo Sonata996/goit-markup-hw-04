@@ -476,6 +476,41 @@ body {
   color: #f4f4fd;
   max-width: 264px;
 }
+.footer-div {
+  display: flex;
+  align-items: baseline;
+}
+/* footer icons */
+
+.footre-li {
+  width: 40px;
+  height: 40px;
+}
+.footer-p-icon {
+  margin: 0;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+.footer-list {
+  display: flex;
+  gap: 16px;
+}
+.footer-svg {
+  fill: #f4f4fd;
+}
+.footer-icon-link {
+  width: 100%;
+  height: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 /* section */
 .portfolio-section {
   padding-top: 96px;
